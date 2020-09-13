@@ -1,0 +1,44 @@
+#Site settings
+title: A.M.P.A. Marcos Frechín
+remote_theme: kash0321/bulma-clean-theme
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Disqus Comments
+# disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  # shortname: itclubmarcosfrechin
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+livereload: true
+
+# google_analytics: UA-149878673-1
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+      hero_image: /img/hero_main3_4.jpg
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Sergio Castillo"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true

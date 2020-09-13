@@ -1,0 +1,4 @@
+- name: Noticias
+  link: /blog/
+- name: Contacto
+  link: /contact/
