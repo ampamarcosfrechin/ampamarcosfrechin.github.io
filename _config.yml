@@ -23,7 +23,7 @@ plugins:
 
 livereload: true
 
-# google_analytics: UA-149878673-1
+google_analytics: UA-149878673-2
 
 defaults:
   -
