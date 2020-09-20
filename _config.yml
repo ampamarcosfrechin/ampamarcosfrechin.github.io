@@ -32,7 +32,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: /img/hero_main3_4.jpg
+      hero_image: /img/header.jpg
   -
     scope:
       path: ""
