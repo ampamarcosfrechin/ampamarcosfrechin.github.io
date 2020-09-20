@@ -7,3 +7,5 @@ image: /img/family.png
 ---
 
 ## Bienvenido
+
+![AMPA](/img/family.png)
