@@ -1,6 +1,6 @@
 #Site settings
 title: A.M.P.A. Marcos Frechín
-theme: jekyll-theme-tactile
+remote_theme: ampamarcosfrechin/feeling-responsive
 permalink: pretty
 
 paginate: 5
