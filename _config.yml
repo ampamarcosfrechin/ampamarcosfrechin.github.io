@@ -1,6 +1,6 @@
 #Site settings
 title: A.M.P.A. Marcos Frechín
-remote_theme: kash0321/bulma-clean-theme
+remote_theme: ampamarcosfrechin/feeling-responsive
 permalink: pretty
 
 paginate: 5
