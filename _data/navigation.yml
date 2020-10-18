@@ -7,7 +7,7 @@
 #   side: left
 
 - title: Noticias
-  url: "/blog/"
+  url: "/news/"
   side: left
 
 - title: "Buscar"
