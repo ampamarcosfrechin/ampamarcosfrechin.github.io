@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: Actividades
-  url: "/activities/"
-  side: left
+# - title: Actividades
+#   url: "/activities/"
+#   side: left
 
 - title: Noticias
   url: "/blog/"
