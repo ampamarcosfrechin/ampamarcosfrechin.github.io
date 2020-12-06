@@ -9,14 +9,14 @@ header:
   image_fullwidth: header-parents.png
 widget1:
   title: "¿Qué somos, qué hacemos?"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://ampa.marcosfrechin.es/blog/'
   image: widget-1-302x182.jpg
   text: '¿Quieres saber lo que hace la A.M.P.A. del colegio? ¿Te gustaría participar? ¿Quieres conocer las actividades e iniciativas que se promueven desde la asociación?'
 widget2:
   title: "Noticias"
   url: 'https://ampa.marcosfrechin.es/blog/'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'Os mantenemos al tanto de la actividad de la A.M.P.A. desde nuestro apartado de noticias. Estad atentos al mismo, en él publicaremos todo lo que sea de actualidad...'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -28,8 +28,8 @@ widget2:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://forms.gle/6anLZPQDZFwW7hfi9
+  text: ¿Quieres ser socio? Inscríbete
   style: alert
 permalink: /index.html
 #
@@ -38,10 +38,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
