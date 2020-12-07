@@ -10,12 +10,12 @@ header:
 widget1:
   title: "¿Qué somos, qué hacemos?"
   url: 'https://ampa.marcosfrechin.es/blog/'
-  image: widget-1-302x182.jpg
+  image: questions_re_1fy7.jpg
   text: '¿Quieres saber lo que hace la A.M.P.A. del colegio? ¿Te gustaría participar? ¿Quieres conocer las actividades e iniciativas que se promueven desde la asociación?'
 widget2:
   title: "Noticias"
   url: 'https://ampa.marcosfrechin.es/blog/'
-  image: widget-github-303x182.jpg
+  image: newspaper_k72w.jpg
   text: 'Os mantenemos al tanto de la actividad de la A.M.P.A. desde nuestro apartado de noticias. Estad atentos al mismo, en él publicaremos todo lo que sea de actualidad...'
 #
 # Use the call for action to show a button on the frontpage
