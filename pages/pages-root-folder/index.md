@@ -9,7 +9,7 @@ header:
   image_fullwidth: header-parents2.png
 widget1:
   title: "¿Qué somos, qué hacemos?"
-  url: 'https://ampa.marcosfrechin.es/blog/'
+  url: 'https://ampa.marcosfrechin.es/aboutus/'
   image: questions_re_1fy7.png
   text: '¿Quieres saber lo que hace la A.M.P.A. del colegio? ¿Te gustaría participar? ¿Quieres conocer las actividades e iniciativas que se promueven desde la asociación?'
 widget2:
