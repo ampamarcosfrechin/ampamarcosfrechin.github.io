@@ -1,12 +1,20 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contacto"
+meta_title: "Contacto"
+subheadline: "¡Hola!"
+teaser: "¿Quieres contactar con la A.M.P.A. del colegio Marcos Frechín?."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Si necesitas contactar con nosotros, escríbenos un correo electrónico a:
 
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 
- [1]: http://www.wufoo.com/
+<img src="/images/email.png" alt="Nuestra dirección de email" class="center">
