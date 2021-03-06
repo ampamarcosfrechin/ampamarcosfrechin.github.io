@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Actividades extraescolares 20/21"
   url: 'https://ampa.marcosfrechin.es/actividades/actividades2020/'
-  image: extraescolares21.png
+  image: extraescolares21_widget.png
   text: 'Información sobre las actividades extraescolares promovidas por la A.M.P.A. para el curso actual (2020/2021)'
 widget3:
   title: "Noticias"
