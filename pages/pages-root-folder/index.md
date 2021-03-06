@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://forms.gle/6anLZPQDZFwW7hfi9
-  text: ¿Quieres ser socio? Inscríbete
+  text: ¿Quieres ser socio de la A.M.P.A.? Inscríbete
   style: alert
 permalink: /index.html
 #

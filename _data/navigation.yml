@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-# - title: Actividades
-#   url: "/activities/"
-#   side: left
+- title: Extraescolares 20/21
+  url: "/actividades/actividades2020/"
+  side: left
 
 - title: Noticias
   url: "/blog/"
