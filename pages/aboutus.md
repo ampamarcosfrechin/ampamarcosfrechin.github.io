@@ -6,4 +6,5 @@ subheadline: "¿Pára que sirve la A.M.P.A.?"
 teaser: "Juntos para mejorar la educación de nuestros hijos"
 permalink: "/aboutus/"
 ---
-# La educación de nuestros hijos también nos corresponde a las madres y padres de los alumnos
+<!--more-->
+## La educación de nuestros hijos también nos corresponde a las madres y padres de los alumnos
