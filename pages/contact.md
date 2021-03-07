@@ -10,13 +10,4 @@ header:
 ---
 Si necesitas contactar con nosotros, escríbenos un correo electrónico a:
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 [![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
