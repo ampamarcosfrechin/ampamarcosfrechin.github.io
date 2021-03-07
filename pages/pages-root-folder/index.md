@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-main.png
+  image_fullwidth: header-main.jpg
 widget1:
   title: "¿Qué somos, qué hacemos?"
   url: 'https://ampa.marcosfrechin.es/aboutus/'

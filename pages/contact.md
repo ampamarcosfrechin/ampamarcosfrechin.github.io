@@ -6,7 +6,7 @@ subheadline: "¡Hola!"
 teaser: "¿Quieres contactar con la A.M.P.A. del colegio Marcos Frechín?."
 permalink: "/contact/"
 header:
-    image_fullwidth: header-main.png
+    image_fullwidth: header-main.jpg
 ---
 Si necesitas contactar con nosotros, escríbenos un correo electrónico a:
 
