@@ -21,7 +21,7 @@ Este año, la COVID 19 ha impactado en todos los pilares de la sociedad, y la A.
 - Coordina el apoyo al colegio
   - Mejoras de infraestructuras, como la Wifi, donación de material tecnológico...
   - Solicitud de ayudas al Ayuntamiento de Zaragoza y al Gobierno de Aragón
-  - Asambleas de padres
+- Asambleas de padres
 
 ### En proyecto / suspendidas por la COVID 19
 
@@ -32,10 +32,10 @@ Este año, la COVID 19 ha impactado en todos los pilares de la sociedad, y la A.
 
 Y además, atiende iniciativas, sugerencias, dudas y problemasque le hagan llegar sus socios a través de sus canales de comunicación.
 
-Para formar parte del AMPA es necesario asociarse, usando el siguiente formulario online:
+Para formar parte del AMPA es necesario asociarse, de forma GRATUITA, usando el siguiente formulario online:
 
 - **<a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank">Formulario de inscripción</a>**
 
-Desde el AMPA les animamos a unirse a la asociación, para poder colaborar todos en la educación de nuestros hijos. Os esperamos.
+Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar todos en la educación de nuestros hijos. Os esperamos.
 
 ¡No somos extraños, somos familias!
