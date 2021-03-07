@@ -2,7 +2,7 @@
 layout: page
 title: "¿Qué somos? ¿Qué hacemos?"
 meta_title: "About Us"
-subheadline: "¿Pára que sirve la A.M.P.A.?"
+subheadline: "¿Para qué sirve la A.M.P.A.?"
 teaser: "Juntos para mejorar la educación de nuestros hijos"
 permalink: "/aboutus/"
 header:
@@ -54,7 +54,11 @@ Este año, por unanimidad de la junta directiva, se ha decidido que la cuota de 
 
 ### ¿Qué implica formar parte del A.M.P.A.?
 
-Estar asociado a la A.M.P.A. no exige ningún compromiso de permanencia, ni verse obligado a colaborar en ningún sentido, el mero hecho de formar parte de la asociación nos da representatividad y fuerza a la hora de solicitar ayuda a las distintas instituciones. Sin embargo, si hay alguna familias que tengan afán de colaboración, sólo tienen que ponerse en contacto con la asociación y estaremos encantados de compartir con ellos aquellas tareas en las que puedan ayudar, sin presiones, y sin obligaciones más allá de las de acompañar y echar una mano en la educación de sus propios hijos.
+Estar asociado a la A.M.P.A. no exige ningún compromiso de permanencia, ni verse obligado a colaborar en ningún sentido, el mero hecho de formar parte de la asociación nos da representatividad y fuerza a la hora de solicitar ayuda a las distintas instituciones. Sin embargo, si hay alguna familias que tengan afán de colaboración, sólo tienen que [ponerse en contacto con la asociación](/contact) y estaremos encantados de compartir con ellos aquellas tareas en las que puedan ayudar, sin presiones, y sin obligaciones más allá de las de acompañar y echar una mano en la educación de sus propios hijos.
+
+Para contactar con nosotros, escríbenos un correo electrónico a:
+
+[![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
 
 Os esperamos.
 
