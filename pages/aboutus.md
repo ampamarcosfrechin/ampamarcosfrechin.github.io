@@ -9,6 +9,14 @@ header:
     image_fullwidth: header-main.jpg
 ---
 <!--more-->
+<style>
+    .high-visibility {
+        font-size: 1.5em;
+        border: 1px;
+        border-radius: 2px;
+    }
+</style>
+
 ## La educación de nuestros hijos también nos corresponde a las madres y padres de los alumnos
 
 La A.M.P.A. (Asociación de Madres y Padres de Alumnos) Marcos Frechín está integrada por familias de los alumnos del colegio, que nos asociamos para ayudar al desarrollo de nuestros hijos y de la comunidad educativa.
@@ -38,14 +46,6 @@ Y además, atiende iniciativas, sugerencias, dudas y problemas que le hagan lleg
 En definitiva, servir de plataforma solidaria para las familias y como intermediario entre las mismas y el centro educativo.
 
 Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar todos en la educación de nuestros hijos, para lo que es necesario inscribirse, usando el siguiente formulario online:
-
-<style>
-    .high-visibility {
-        font-size: 1.5em;
-        border: 1px;
-        border-radius: 2px;
-    }
-</style>
 
 **<a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="high-visibility text-center">Formulario de inscripción</a>**
 
