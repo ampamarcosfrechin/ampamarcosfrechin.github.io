@@ -10,17 +10,17 @@ header:
 widget1:
   title: "¿Qué somos, qué hacemos?"
   url: 'https://ampa.marcosfrechin.es/aboutus/'
-  image: questions_re_1fy7.png
+  image: widget_sobrenosotros.png
   text: '¿Quieres saber lo que hace la A.M.P.A. del colegio? ¿Te gustaría participar? ¿Quieres conocer las actividades e iniciativas que se promueven desde la asociación?'
 widget2:
   title: "Actividades extraescolares 20/21"
   url: 'https://ampa.marcosfrechin.es/actividades/actividades2020/'
-  image: extraescolares21_widget.png
+  image: widget_extraescolares.png
   text: 'Información sobre las actividades extraescolares promovidas por la A.M.P.A. para el curso actual (2020/2021)'
 widget3:
   title: "Noticias"
   url: 'https://ampa.marcosfrechin.es/blog/'
-  image: newspaper_k72w.png
+  image: widget_noticias.png
   text: 'Os mantenemos al tanto de la actividad de la A.M.P.A. desde nuestro apartado de noticias. Estad atentos al mismo, en él publicaremos todo lo que sea de actualidad...'
 #
 # Use the call for action to show a button on the frontpage
