@@ -19,4 +19,4 @@ Si necesitas contactar con nosotros, escríbenos un correo electrónico a:
 }
 </style>
 
-<img src="/images/email.png" alt="Nuestra dirección de email" class="center">
+[![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
