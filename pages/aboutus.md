@@ -18,7 +18,7 @@ header:
     }
 </style>
 
-## La educación de nuestros hijos también nos corresponde a las madres y padres de los alumnos
+## La educación de nuestros hijos también nos corresponde a las familias
 
 La A.M.P.A. (Asociación de Madres y Padres de Alumnos) Marcos Frechín está integrada por familias de los alumnos del colegio, que nos asociamos para ayudar al desarrollo de nuestros hijos y de la comunidad educativa.
 
