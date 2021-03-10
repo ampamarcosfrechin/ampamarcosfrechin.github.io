@@ -34,7 +34,7 @@ Este año, la COVID 19 ha impactado en todos los pilares de la sociedad, y la A.
 
 ### En proyecto / suspendidas por la COVID 19
 
-- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, que pusimos en marcha el año pasado, con gran éxito de asistencia y celebración de numerosas actividades, pero que este año ha tenido que detener la actividad presencial, debido a la pandemia. El Club volverá a abrir sus puertas cuando la situaciónepidemiológica lo permita.
+- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, que pusimos en marcha el año pasado, con gran éxito de asistencia y celebración de numerosas actividades, pero que este año ha tenido que detener la actividad presencial, debido a la pandemia. El Club volverá a abrir sus puertas cuando la situación epidemiológica lo permita.
 - Talleres para familias
   - Instrucción tecnológica, con el propósito de reducir la brecha digital
   - Ayuda con el idioma y la inclusión social y cultural
