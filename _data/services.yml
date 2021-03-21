@@ -2,7 +2,7 @@
 
 - name: "Contact"
   url: "/contact/"
-  title: "Contact"
+  title: "Contacto"
 
 - name: "RSS"
   url: "/feed.xml"

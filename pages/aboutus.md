@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "¿Qué somos? ¿Qué hacemos?"
-meta_title: "About Us"
+meta_title: "Acerca de"
 subheadline: "¿Para qué sirve la A.M.P.A.?"
 teaser: "Juntos para mejorar la educación de nuestros hijos"
 permalink: "/aboutus/"
@@ -50,7 +50,7 @@ Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar to
 
 **<a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="high-visibility">>>PULSA AQUÍ<< para asociarte ONLINE</a>**
 
-Este año, por unanimidad de la junta directiva, se ha decidido que la cuota de socio sea totalmente GRATUITA, para que no suponga una barrera económica la participación de las familias que así lo deseen, habida cuenta de la situación emidemiológica en la que nos encontramos, y la crisis económica que está ocasionando. Por el contrario, nuestro objetivo es poder contar con el mayor número de socios posible, que nos den la fuerza suficiente para ayudarnos entre nosotros, y superar aquellos obstáculos y problemas que se interpongan en el camino de nuestros hijos.
+Este año, por unanimidad de la junta directiva, se ha decidido que la cuota de socio sea totalmente GRATUITA, para que no suponga una barrera económica a la participación de las familias que así lo deseen, habida cuenta de la situación emidemiológica en la que nos encontramos, y la crisis económica que está ocasionando. Por el contrario, nuestro objetivo es poder contar con el mayor número de socios posible, que nos den la fuerza suficiente para ayudarnos entre nosotros, y superar aquellos obstáculos y problemas que se interpongan en el camino de nuestros hijos.
 
 ### ¿Qué implica formar parte del A.M.P.A.?
 

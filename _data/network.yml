@@ -1,6 +1,6 @@
 - menu_name: "Créditos"
 
-- name: "Icons by Daniel Bruce"
+- name: "Iconos de Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
@@ -8,14 +8,14 @@
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Usamos el framework Foundation"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "Images by Pexels"
+  url: "https://www.pexels.com/es-es/"
   class: "rss-link"
-  title: "Images by Unsplash"
+  title: "Imágenes obtenidas de Pexels"
 
 - name: "Using Backstretch by Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Usamos el plugin backstretch de Scott Robbin"
