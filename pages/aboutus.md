@@ -7,6 +7,7 @@ teaser: "Juntos para mejorar la educación de nuestros hijos"
 permalink: "/aboutus/"
 header:
     image_fullwidth: header-main.jpg
+comments: true
 ---
 <!--more-->
 <style>
