@@ -45,6 +45,7 @@ Tienes más información sobre las actividades extraescolares y las inscripcione
 - Todos los niños (incluso los de infantil) deben llevar mascarilla bien puesta (cubriendo nariz y boca)
 - Es muy recomendable que cada niño traiga su propia botella de agua para usarla durante la actividad
 - 5 minutos antes de la hora de inicio de las actividades, los monitores recogerán a los niños en la puerta principal del centro (calle Doctor Iranzo s/n)
+- Las familias de los niños que se quedan al comedor y acuden a actividades extraescolares, no hace falta que vayan a recogerlos a las 16:00 para volver a traerlos a las 16:30, podrán quedarse al cuidado de los monitores del comedor y los monitores de Os Zagales hasta el comienzo de la actividad
 - Tras la finalización de la actividad, a las 17:30, los monitores entregarán a los niños a las familias en la puerta del centro
 - Por favor, en estos dos momentos, aún estando fuera del centro escolar, seguid manteniendo las normas sanitarias:
   - Mascarillas puestas, cubriendo nariz y boca
