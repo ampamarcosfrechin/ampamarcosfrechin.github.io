@@ -37,7 +37,7 @@ La actividad de multideporte todavía no tiene un número mínimo de inscritos p
 
 Tienes más información sobre las actividades extraescolares y las inscripciones en la siguiente página:
 
-**[Actividades extraescolares 2021](/actividades/actividades2021/)**
+**[Actividades extraescolares 2021](/actividades/actividades2021)**
 
 ## Normas básicas
 
