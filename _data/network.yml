@@ -3,19 +3,19 @@
 - name: "Iconos de Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Iconos de Daniel Bruce"
 
-- name: "Built on Foundation"
+- name: "Usamos el framework Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
   title: "Usamos el framework Foundation"
 
-- name: "Images by Pexels"
+- name: "Imágenes obtenidas de Pexels"
   url: "https://www.pexels.com/es-es/"
   class: "rss-link"
   title: "Imágenes obtenidas de Pexels"
 
-- name: "Using Backstretch by Scott Robbin"
+- name: "Usamos el plugin backstretch de Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Usamos el plugin backstretch de Scott Robbin"

@@ -61,6 +61,8 @@ Para contactar con nosotros, escríbenos un correo electrónico a:
 
 [![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
 
+También puedes escribir un comentario al final de esta entrada.
+
 Os esperamos.
 
 --------------------------------
