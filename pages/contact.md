@@ -12,4 +12,10 @@ Si necesitas contactar con nosotros, escríbenos un correo electrónico a:
 
 [![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
 
-También puedes seguirnos <a href="https://twitter.com/AmpaFrechin" target="_blank">en twitter</a>
+También puedes seguirnos en redes sociales
+
+<ul class="inline-list social-icons">
+    <li>
+        <a href="https://twitter.com/AmpaFrechin" target="_blank" class="icon-twitter" title="Síguenos en twitter"></a>
+    </li>
+</ul>
