@@ -18,4 +18,7 @@ También puedes seguirnos en redes sociales
     <li>
         <a href="https://twitter.com/AmpaFrechin" target="_blank" class="icon-twitter" title="Síguenos en twitter"></a>
     </li>
+    <li>
+        <a href="https://www.facebook.com/groups/783800778925039" target="_blank" class="icon-facebook" title="Participa en nuestro grupo de facebook"></a>
+    </li>
 </ul>
