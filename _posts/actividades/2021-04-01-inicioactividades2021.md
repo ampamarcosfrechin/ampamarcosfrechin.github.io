@@ -3,6 +3,7 @@ layout: page
 title: "Inicio de las actividades extraescolares"
 subheadline: "Curso 2020/2021"
 teaser: "Comienzan la semana del 5 de Abril de 2021. Normas básicas."
+breadcrumb: true
 categories:
     - actividades
 tags:

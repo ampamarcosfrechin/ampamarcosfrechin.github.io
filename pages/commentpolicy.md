@@ -4,6 +4,7 @@ title: "Política de comentarios"
 meta_title: "Política de comentarios"
 subheadline: "Comenta con respeto"
 permalink: "/commentpolicy/"
+breadcrumb: true
 header:
     image_fullwidth: header-main.jpg
 ---

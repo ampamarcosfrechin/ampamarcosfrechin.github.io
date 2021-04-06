@@ -4,6 +4,7 @@ title: "Contacto"
 meta_title: "Contacto"
 subheadline: "¡Hola!"
 teaser: "¿Quieres contactar con la A.M.P.A. del colegio Marcos Frechín?."
+breadcrumb: true
 permalink: "/contact/"
 header:
     image_fullwidth: header-main.jpg

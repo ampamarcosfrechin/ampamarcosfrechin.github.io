@@ -4,6 +4,7 @@ title: "¿Qué somos? ¿Qué hacemos?"
 meta_title: "Acerca de"
 subheadline: "¿Para qué sirve la A.M.P.A.?"
 teaser: "Juntos para mejorar la educación de nuestros hijos"
+breadcrumb: true
 permalink: "/aboutus/"
 header:
     image_fullwidth: header-main.jpg
