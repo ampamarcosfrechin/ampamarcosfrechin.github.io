@@ -32,7 +32,7 @@ Fútbol (sin competición) | Primaria | Lunes 5 de abril. 16:30
 Bailes modernos | Infantil | Jueves 8 de abril. 16:30
 Bailes modernos | Primaria | Jueves 8 de abril. 16:30
 
-La actividad de multideporte todavía no tiene un número mínimo de inscritos para que se pueda formar un grupo, si hay alguien interesado, todavía puede inscribirse:
+La actividad multideporte todavía no tiene un número mínimo de inscritos para que se pueda formar un grupo, si hay alguien interesado, todavía puede inscribirse:
 
 **<a href="https://forms.gle/dDaXVXkTgDt3wMpy9" target="_blank" class="high-visibility">>>PULSA AQUÍ<< para inscribirte ONLINE</a>**
 
