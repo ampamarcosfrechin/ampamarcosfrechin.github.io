@@ -22,4 +22,7 @@ También puedes seguirnos en redes sociales
     <li>
         <a href="https://www.facebook.com/groups/783800778925039" target="_blank" class="icon-facebook" title="Participa en nuestro grupo de facebook"></a>
     </li>
+    <li>
+        <a href="https://www.instagram.com/ampafrechin/" target="_blank" class="icon-instagram" title="Síguenos en instagram"></a>
+    </li>
 </ul>
