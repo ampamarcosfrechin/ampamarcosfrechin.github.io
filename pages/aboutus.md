@@ -50,7 +50,7 @@ En definitiva, servir de plataforma solidaria para las familias y como intermedi
 
 Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar todos en la educación de nuestros hijos. Es necesario inscribirse, usando el siguiente formulario online, y pagando la cuota de inscripción, de 12 € anuales por familia, mediante transferencia a nuestra cuenta bancaria (la situación actual no permite el acceso al centro de las familias para hacer efectiva la cuota en metálico).
 
-**<a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="high-visibility">>>PULSA AQUÍ<< para asociarte ONLINE</a>**
+<a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="button large radius alert">PULSA AQUÍ para asociarte ONLINE</a>
 
 ### ¿Qué implica formar parte del A.M.P.A.?
 
