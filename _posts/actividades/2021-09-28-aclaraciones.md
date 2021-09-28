@@ -2,7 +2,6 @@
 layout: page
 title: "Aclaraciones"
 subheadline: "Actividades extraescolares 2021/2022"
-teaser: "Este año, por fin desde el principio, pero manteniendo las medidas de seguridad recomendadas por las autoridades sanitarias"
 breadcrumb: true
 categories:
     - actividades
@@ -29,5 +28,8 @@ No es necesario, lo más importante es formalizar las inscripciones en las activ
 
 ## ¿Cuándo hay que presentar la inscripción en las actividades extraescolares?
 Cuanto antes. Habíamos pensado poner como fecha límite en miércoles 29 de septiembre de 2021, pero aún no han llegado suficientes inscripciones a la empresa coordinadora como para definir los grupos de cada actividad. Si no hay suficientes en la fecha límite, se ampliará el plazo, pero ya no se podrá comenzar el 4 de octubre. Si a pesar de ampliar el plazo, sigue sin alcanzarse el mínimo de plazas, no se podrán crear grupos para alguna o algunas actividades. 
+
+## Número de socio en las inscripciones a las actividades extraescolares
+Hemos detectado que en la ficha de inscripción en papel (en el formulario ONLINE no ocurre) a las actividades extraescolares, se solicita el número de socio de la AMPA. Debéis dejarlo vacío, y sólamente indicar si vais a pertenecer a la AMPA (y por tanto pagar la cuota de 12 € por familia y año, quedando exentos de pagar la matrícula de 30 €) o no. 
 
 Si nos llega alguna pregunta más, las iremos incorporando a esta página, y le pediremos al colegio que lo notifique vía tokapp. Les damos las gracias al centro por su colaboración y también a la empresa OS Zagales, por el mismo motivo. El objetivo es que los niñ@s puedan disfrutar de las actividades cuanto antes y con seguridad.
