@@ -16,12 +16,12 @@ comments: true
 Nos están llegando preguntas e inquietudes al respecto del proceso de inscripción en las actividades extraescolares, a las que vamos a intentar dar respuesta.
 
 ## ¿Como me registro en la AMPA? 
-Tradicionalmente, se ha podido gestionar los registros en la AMPA de forma presencial, dentro de las dependencias del colegio, pero debido a la pandemia, estamos intentando evitar que los padres de alumnos tengan que acceder a las instalaciones por motivos administrativos. Para ello, se dispone de un formulario de inscripción online, accesible desde cualquier dispositivo, incluido un teléfono móvil. En el caso de que alguna familia no tenga acceso a internet o a un disposivo electrónico con el que formalizar el registro, que soliciten en la secretaría del colegio un formulario en papel. Rogamos que se utilice este método ser sólo para casos excepcionales, de fuerza mayor, ya que implica una sobrecarga de trabajo para el personal del colegio.
+Tradicionalmente, se ha podido gestionar los registros en la AMPA de forma presencial, dentro de las dependencias del colegio, pero debido a la pandemia, estamos intentando evitar que los padres de alumnos tengan que acceder a las instalaciones por motivos administrativos. Para ello, se dispone de un formulario de inscripción online, accesible desde cualquier dispositivo, incluido un teléfono móvil. En el caso de que alguna familia no tenga acceso a internet o a un disposivo electrónico con el que formalizar el registro, que soliciten en la secretaría del colegio un formulario en papel. Rogamos que se utilice este método sólamente para casos excepcionales, de fuerza mayor, ya que implica una sobrecarga de trabajo para el personal del colegio.
 
 <a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="button large radius alert">PULSA AQUÍ para asociarte ONLINE</a>
 
 ## ¿Tengo que hacerlo si ya lo había hecho en años anteriores?
-Sí, cada año repetimos el proceso de alta en la AMPA, porque muchas familias dejan de pertenecer a esta comunidad educativa (sus hijos se hacen mayores y acceden a estudios más avanzados), y muchas otras llegan nuevas (sus hijos empiezan en el colegio). Con todo el tema del COVID, es más efectivo gestionar el proceso desde cero, al menos de momento. Además, estamos informatizando los registros de la AMPA, que ya tocaba...
+Sí, cada año repetimos el proceso de alta en la AMPA, porque muchas familias dejan de pertenecer a esta comunidad educativa (sus hij@s se hacen mayores y acceden a estudios más avanzados), y muchas otras llegan nuevas (sus hij@s empiezan en el colegio). Con todo el tema del COVID, es más efectivo gestionar el proceso desde cero, al menos de momento. Además, estamos informatizando los registros de la AMPA, que ya tocaba...
 
 
 ## ¿Como pagar la cuota de inscripción a la AMPA (12 € por año y familia)?
