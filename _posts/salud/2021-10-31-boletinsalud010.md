@@ -18,7 +18,7 @@ comments: true
 
 A través de FAPAR, nos ha llegado este boletín, que tiene periodicidad mensual, y que creemos que puede resultar interesante para todas las familias del cole.
 
-![Multideporte](/images/noticias/boletinsaludn10.png "Boletín de Promoción de la Salud Nº 10")
+![Boletín de Promoción de la Salud Nº 10](/images/noticias/boletinsaludn10.png "Boletín de Promoción de la Salud Nº 10")
 
 Podéis descargar el boletín completo en PDF desde aquí:
 
