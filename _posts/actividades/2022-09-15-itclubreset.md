@@ -32,7 +32,7 @@ Contaremos con nuestros amigos de la <a href="https://www.legion501.com/" target
 
 Como antes de la pandemia, abrimos esta actividad a niñas, niños, madres y padres, profesores, del Marcos Frechín, que es nuestro cole, pero también de otros coles, buscaremos sitio para que podamos caber un buen puñado de gente, si os apetece...
 
-> **¡IMPORTANTE! Papás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
+> **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
 
 Más información sobre el evento: <a href="https://itclub.marcosfrechin.es/2022/09/15/itclubreset/" target="_blank">ITClub Reset. Reiniciando el sistema...</a>
 
