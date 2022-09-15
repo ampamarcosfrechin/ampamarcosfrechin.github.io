@@ -30,6 +30,8 @@ Tras muchos meses de pandemia y de no poder hacer cosas juntos, la AMPA del cole
 
 Contaremos con nuestros amigos de la <a href="https://www.legion501.com/" target="_blank">Legión 501</a>, que vendrán con sus personajes de Star Wars, para ayudarnos a controlar el acceso y dejarse que os hagáis fotos con ellos.
 
+![Legión 501 en el ITClub en 2019](/noticias/ITClubEvent.jpg)
+
 Como antes de la pandemia, abrimos esta actividad a niñas, niños, madres y padres, profesores, del Marcos Frechín, que es nuestro cole, pero también de otros coles, buscaremos sitio para que podamos caber un buen puñado de gente, si os apetece...
 
 > **¡IMPORTANTE! Papás y mamás, si queréis traer a vuestros hijos al taller, por favor, inscribidlos aquí:** <a href="https://forms.gle/vaNAyv4WhLwdfvfH8" target="_blank">Formulario de inscripción</a>
