@@ -10,7 +10,7 @@ tags:
     - itclub
     - club de informática
 header:
-    image_fullwidth: /noticias/ITClubReset.png
+    image_fullwidth: /header-news.jpg
 comments: true
 ---
 <!--more-->
