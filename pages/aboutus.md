@@ -26,10 +26,10 @@ Desde hace más de un año, la COVID 19 ha impactado en todos los pilares de la 
   - Donación de material...
   - Solicitud de ayudas al Ayuntamiento de Zaragoza y al Gobierno de Aragón
 - Organizar asambleas de padres
+- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, iniciado en 2019, con gran éxito de asistencia y celebración de numerosas actividades, que tuvimos que paralizar a la espera de que la pandemia remita. ¡Pero ya hemos vuelto!
 
-### En proyecto / suspendidas por la COVID 19
+### En proyecto
 
-- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, iniciado en 2019, con gran éxito de asistencia y celebración de numerosas actividades, que tuvimos que paralizar a la espera de que la pandemia remita. Esperamos reabrir el Club este mismo curso, pero de momento, sólo para los alumnos de nuestro centro, el Marcos Frechín.
 - Talleres para familias
   - Instrucción tecnológica, con el propósito de reducir la brecha digital
   - Ayuda con el idioma y la inclusión social y cultural
