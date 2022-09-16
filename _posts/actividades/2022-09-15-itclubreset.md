@@ -26,7 +26,7 @@ comments: true
 
 ## Arrancamos de nuevo
 
-Tras muchos meses de pandemia y de no poder hacer cosas juntos, la AMPA del colegio tiene el placer de invitaros a todos y todas al reinicio del <a href="https://itclub.marcosfrechin.es/" target="_blank">Club de Informática</a>, el **sábado, 1 de Octubre de 2022, de 11:30h a 13:00h**, en el CEIP Marcos Frechín de Zaragoza.
+Tras muchos meses de pandemia y de no poder hacer cosas juntos, la AMPA del colegio tiene el placer de invitaros a todos y todas <a href="https://itclub.marcosfrechin.es/2022/09/15/itclubreset/" target="_blank">al reinicio del Club de Informática</a>, el **sábado, 1 de Octubre de 2022, de 11:30h a 13:00h**, en el CEIP Marcos Frechín de Zaragoza.
 
 Contaremos con nuestros amigos de la <a href="https://www.legion501.com/" target="_blank">Legión 501</a>, que vendrán con sus personajes de Star Wars, para ayudarnos a controlar el acceso y dejarse que os hagáis fotos con ellos.
 
