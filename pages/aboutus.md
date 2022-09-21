@@ -16,17 +16,17 @@ comments: true
 
 La A.M.P.A. (Asociación de Madres y Padres de Alumnos) Marcos Frechín está integrada por familias de los alumnos del colegio, que nos asociamos para ayudar al desarrollo de nuestros hijos y de la comunidad educativa.
 
-Desde hace más de un año, la COVID 19 ha impactado en todos los pilares de la sociedad, y la A.M.P.A. de nuestro colegio, como no podía ser de otra manera, también ha visto mermada su capacidad de gestión por motivos obvios, aún así, la lista de tareas que se van a acometer o ya se han gestionado, es significativa:
+La lista de tareas que se van a acometer o ya se han gestionado, es significativa:
 
 ### En marcha
 
-- Organizar [actividades extraescolares](/actividades/actividades2122), gestionadas por la empresa <a href="https://oszagales.com/" target="_blank">Os Zagales</a>
+- Organizar [actividades extraescolares](/actividades/actividades2223), gestionadas por la empresa <a href="https://oszagales.com/" target="_blank">Os Zagales</a>
 - Coordinar el apoyo al colegio
-  - Mejorar infraestructuras, como la Wifi
+  - Mejorar infraestructuras, como la Wifi, para lo que la AMPA financió la mitad del coste económico en 2022
   - Donación de material...
   - Solicitud de ayudas al Ayuntamiento de Zaragoza y al Gobierno de Aragón
 - Organizar asambleas de padres
-- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, iniciado en 2019, con gran éxito de asistencia y celebración de numerosas actividades, que tuvimos que paralizar a la espera de que la pandemia remita. ¡Pero ya hemos vuelto!
+- <a href="https://itclub.marcosfrechin.es/" target="_blank">I.T. Club "Marcos Frechín"</a>, nuestro club de informática y robótica, iniciado en 2019, con gran éxito de asistencia y celebración de numerosas actividades, que tuvimos que paralizar a la espera de que la pandemia remita. <a href="https://itclub.marcosfrechin.es/2022/09/15/itclubreset/" target="_blank">¡Pero ya hemos vuelto!</a>
 
 ### En proyecto
 
@@ -40,7 +40,7 @@ Y además, atender iniciativas, sugerencias, dudas y problemas que le hagan lleg
 
 En definitiva, servir de plataforma solidaria para las familias y como intermediario entre las mismas y el centro educativo.
 
-Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar todos en la educación de nuestros hijos. Es necesario inscribirse, usando el siguiente formulario online, y pagando la cuota de inscripción, de **12 € anuales por familia**, mediante transferencia a nuestra cuenta bancaria (la situación actual no permite el acceso al centro de las familias para hacer efectiva la cuota en metálico).
+Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar todos en la educación de nuestros hijos. Es necesario inscribirse, usando el siguiente formulario online, y pagando la cuota de inscripción, de **15 € anuales por familia**, mediante transferencia a nuestra cuenta bancaria (la situación actual no permite el acceso al centro de las familias para hacer efectiva la cuota en metálico).
 
 <a href="https://forms.gle/KxVE1c1tiFNN5abQA" target="_blank" class="button large radius alert">PULSA AQUÍ para asociarte ONLINE</a>
 
