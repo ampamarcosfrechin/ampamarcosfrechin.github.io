@@ -48,6 +48,13 @@ Desde la A.M.P.A. os animamos a uniros a la asociación, para poder colaborar to
 
 Estar asociado a la A.M.P.A. no exige ningún compromiso de permanencia, ni verse obligado a colaborar en ningún sentido, el mero hecho de formar parte de la asociación nos da representatividad y fuerza a la hora de solicitar ayuda a las distintas instituciones. Sin embargo, si hay alguna familia que tengan afán de colaboración, sólo tienen que [ponerse en contacto con la asociación](/contact) y estaremos encantados de compartir con ellos aquellas tareas en las que puedan ayudar, sin presiones, y sin obligaciones más allá de las de acompañar y echar una mano en la educación de sus propios hijos.
 
+## Cómo pagar la cuota anual
+
+Os dejamos la información concerniente al pago de las cuotas de socio (por familia) correspondiente al año 2022/2023:
+
+[Pago de cuotas 2022/2023](/socios/cuotas2223)
+
+## Contacto
 Para contactar con nosotros, escríbenos un correo electrónico a:
 
 [![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
