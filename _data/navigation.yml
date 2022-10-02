@@ -6,6 +6,10 @@
   url: "/actividades/actividades2223/"
   side: left
 
+- title: Club de Informática
+  url: "https://itclub.marcosfrechin.es/"
+  side: left
+
 - title: Noticias
   url: "/blog/"
   side: left
