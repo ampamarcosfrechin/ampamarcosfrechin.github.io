@@ -61,7 +61,7 @@ Para contactar con nosotros, escríbenos un correo electrónico a:
 
 Puedes venir en persona a nuestra oficina en el colegio atendiendo en siguiente horario:
 
-- Martes tardes, de 15:30 a 16:30, en la caseta junto a la entrada principal del colegio.
+- Martes tardes, de 15:30 a 16:30, en la oficina de la AMPA (pregunta en secretaría).
 - Jueves mañanas, de 9:00 a 9:30 y de 10:30 a 11:30, en la oficina de la AMPA (pregunta en secretaría).
 
 También puedes escribir un comentario al final de esta entrada.
