@@ -52,7 +52,7 @@ Estar asociado a la A.M.P.A. no exige ningún compromiso de permanencia, ni vers
 
 Os dejamos la información concerniente al pago de las cuotas de socio (por familia) correspondiente al año 2022/2023:
 
-[Pago de cuotas 2022/2023](/socios/cuotas2223)
+[Pago de cuotas 2022/2023](/socios/cuotas2324)
 
 ## Contacto
 Para contactar con nosotros, escríbenos un correo electrónico a:
