@@ -13,10 +13,10 @@ widget1:
   image: widget_sobrenosotros.png
   text: '¿Quieres saber lo que hace la A.M.P.A. del colegio? ¿Te gustaría participar? ¿Quieres conocer las actividades e iniciativas que se promueven desde la asociación?'
 widget2:
-  title: "Extraescolares 23/24"
-  url: 'https://ampa.marcosfrechin.es/actividades/actividades2324/'
+  title: "Extraescolares 24/25"
+  url: 'https://ampa.marcosfrechin.es/actividades/actividades2425/'
   image: widget_extraescolares.png
-  text: 'Información sobre las actividades extraescolares promovidas por la A.M.P.A. para el curso actual (2023/2024)'
+  text: 'Información sobre las actividades extraescolares promovidas por la A.M.P.A. para el curso actual (2024/2025)'
 widget3:
   title: "Noticias"
   url: 'https://ampa.marcosfrechin.es/blog/'
