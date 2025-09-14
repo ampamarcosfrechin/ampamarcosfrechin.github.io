@@ -59,10 +59,10 @@ Para contactar con nosotros, escríbenos un correo electrónico a:
 
 [![Nuestra dirección de email](/images/email.png "Nuestra dirección de email")](mailto:ampamarcosfrechin@hotmail.com)
 
-Puedes venir en persona a nuestra oficina en el colegio atendiendo en siguiente horario:
+<!-- Puedes venir en persona a nuestra oficina en el colegio atendiendo en siguiente horario:
 
    - Martes tardes, de 15:00 a 16:00, en la oficina de la AMPA (pregunta en secretaría).
-   - Jueves mañanas, de 9:00 a 10:00, en la oficina de la AMPA (pregunta en secretaría).
+   - Jueves mañanas, de 9:00 a 10:00, en la oficina de la AMPA (pregunta en secretaría). -->
 
 También puedes escribir un comentario al final de esta entrada.
 
